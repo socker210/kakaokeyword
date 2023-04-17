@@ -1,0 +1,12 @@
+# NPM PKG Folder
+node_modules/
+
+# Heroku dist Folder
+dist_to_heroku/
+
+# Distribute folder
+public/
+
+# Keep Empty folder
+!.gitkeep
+.vercel
